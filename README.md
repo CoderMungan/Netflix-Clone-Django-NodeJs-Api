@@ -1,2 +1,7 @@
 # Netflix-Clone-Django-NodeJs-Api
-Netflix Sitesi
+- Mail Sistemi
+- AbstracUser
+- Alt Profiller
+- Evebeyn Koruması
+- Apiler
+- Ödeme Sistemi Apisi (NodeJS) Fake!
